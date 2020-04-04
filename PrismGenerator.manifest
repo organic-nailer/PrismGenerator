@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"fastriver_org",
+	"description":	{
+		"":	"角柱と穴を作る"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
